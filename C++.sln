@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CheBo", "CheBo\CheBo.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgBox", "MsgBox\MsgBox.vcxproj", "{5F7B8C10-5022-4E14-B795-2CAFB2A17879}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ErrorMsgBox", "ErrorMsgBox\ErrorMsgBox.vcxproj", "{6696B34C-6C37-454D-9652-D5063E9ED921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5F7B8C10-5022-4E14-B795-2CAFB2A17879}.Release|x64.Build.0 = Release|x64
 		{5F7B8C10-5022-4E14-B795-2CAFB2A17879}.Release|x86.ActiveCfg = Release|Win32
 		{5F7B8C10-5022-4E14-B795-2CAFB2A17879}.Release|x86.Build.0 = Release|Win32
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Debug|x64.ActiveCfg = Debug|x64
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Debug|x64.Build.0 = Debug|x64
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Debug|x86.ActiveCfg = Debug|Win32
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Debug|x86.Build.0 = Debug|Win32
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Release|x64.ActiveCfg = Release|x64
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Release|x64.Build.0 = Release|x64
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Release|x86.ActiveCfg = Release|Win32
+		{6696B34C-6C37-454D-9652-D5063E9ED921}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
